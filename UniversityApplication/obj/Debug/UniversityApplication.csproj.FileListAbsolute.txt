@@ -1,0 +1,15 @@
+C:\cs440\UniversityApplication\UniversityApplication\bin\Debug\UniversityApplication.exe.config
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.csprojResolveAssemblyReference.cache
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.Form1.resources
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.Properties.Resources.resources
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.searchbyid.resources
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.searchbysemester.resources
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.searchenrollment.resources
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.showcourses.resources
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.Unregister.resources
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.csproj.GenerateResource.Cache
+C:\cs440\UniversityApplication\UniversityApplication\bin\Debug\UniversityApplication.exe
+C:\cs440\UniversityApplication\UniversityApplication\bin\Debug\UniversityApplication.pdb
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.exe
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.pdb
+C:\cs440\UniversityApplication\UniversityApplication\obj\Debug\UniversityApplication.Registercourses.resources
